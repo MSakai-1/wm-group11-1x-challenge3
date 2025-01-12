@@ -5,3 +5,4 @@ data/
 .idea/
 subsample_val.py
 .ipynb_checkpoints/
+open_genie/open_genie_venv

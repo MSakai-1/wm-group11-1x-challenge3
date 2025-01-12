@@ -1,0 +1,4 @@
+einops
+setuptools
+torch==2.3.0
+lightning>2.3.1
